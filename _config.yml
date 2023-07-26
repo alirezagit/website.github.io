@@ -59,30 +59,30 @@ author:
   avatar : "https://alirezaspr.ir/avatar.jpg"
   bio    : "Blog Founder"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://alirezaspr.ir/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:soltanpour@live.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/soltanpour"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/alireza_spr"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/soltanpour"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:soltanpour@live.com"
 
 defaults:
   # _posts
